@@ -12,5 +12,5 @@ spec:
   template:
     spec:
       containers:
-        - image: quay.io/tpetkos/crew-ai-test25102302:29f8d845446b54ca1154949f31ef4fb82c3a261b@sha256:d2bf5a2cc18e62cabd5b900a8bf82439e1323e9c300030a3f2244c72606358cd # use pre-built to bootstrap
+        - image: quay.io/tpetkos/crew-ai-test25102302:725b53c0f6782933a433778603941dc86bca9d84@sha256:af465faf0d0b98e1381041559bacefc79b39a0794a4f5a3dcf5473592108d664 # use pre-built to bootstrap
           name: app-inference
